@@ -11,7 +11,7 @@ Kivi Game is a turn-based 2D board game built in Java using Swing. Created as a 
 
 ## 🖼️ Screenshots
 
-<img src="assets/board.png" width="400" alt="Kivi Game Board" />
+<img src="assets/screenshot1.png" width="400" alt="Kivi Game Board" />
 <img src="assets/ui.png" width="400" alt="Kivi Game UI" />
 
 ## 🛠️ Tech Stack
