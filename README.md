@@ -1,4 +1,4 @@
-# 🎮 Kivi Game – Java Swing Board Game
+# 🎮 Kivi Game – Java Swing Board Game (GROUP PROJECT)
 
 Kivi Game is a turn-based 2D board game built in Java using Swing. Created as a group project for COMP 2005, it includes AI vs Human mode, color-blind accessibility, and intuitive gameplay mechanics.
 
@@ -12,7 +12,9 @@ Kivi Game is a turn-based 2D board game built in Java using Swing. Created as a 
 ## 🖼️ Screenshots
 
 <img src="assets/screenshot1.png" width="400" alt="Kivi Game Board" />
-<img src="assets/ui.png" width="400" alt="Kivi Game UI" />
+<img src="assets/screenshot2.png" width="400" alt="Kivi Game UI" />
+<img src="assets/kivigame.png" width="400" alt="Kivi Game Preview" />
+
 
 ## 🛠️ Tech Stack
 
@@ -31,9 +33,11 @@ java -cp bin Main
 
 ## 👥 Team
 
-- Saad Bindawlat
-- [Add your group members here]
+- Saad Bin Dawlat  
+- Doyun Chin (Max)  
+- Hassan Rana  
+- Sujoy Chowdhury  
+- A. Stricklan  
 
-## 📄 License
 
-MIT
+
