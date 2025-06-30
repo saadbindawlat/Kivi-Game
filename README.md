@@ -29,7 +29,7 @@ javac -d bin src/*.java
 java -cp bin Main
 ```
 
-> You may need to adjust the classpath based on your file structure.
+>  You may need to adjust the classpath based on your file structure.
 
 ## 👥 Team
 
